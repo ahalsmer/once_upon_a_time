@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.once_upon_a_time">
+    package="com.dtfun.once_upon_a_time">
    <application
-        android:label="once_upon_a_time"
+        android:label="Once Upon a Time"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
